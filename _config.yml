@@ -1,7 +1,7 @@
 #markdown: rdiscount
 markdown: kramdown
 #markdown: redcarpet
-pygments: true
+highlighter: pygments
 safe: false
 permalink: /posts/:title.html
 exclude:
@@ -15,12 +15,16 @@ custom:
     category:
         notes: 学习笔记
         tech: 技术
+        problems: 遇到问题
     categories:
       - name:  notes
         title: 学习笔记
 
       - name:  tech
         title: 技术
+
+      - name:  problems
+        title: 遇到问题
 
 meta:
     author:
