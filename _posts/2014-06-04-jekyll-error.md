@@ -1,9 +1,8 @@
 ---
 layout: post
-title: jekyll 2.0.3 | Error:  invalid byte sequence in US-ASCII
+title: jekyll invalid byte sequence in US-ASCII
 category: problems
 ---
-
 
 
 
