@@ -74,6 +74,7 @@ Then check my locale by typing the following command
 		✗ jekyll serve
           Generating...
       WARN  TCPServer Error: Can't assign requested address - bind(2)
+      
 ###8. 网上查了一下，在_config.yml文件中，把host改为url, 该问题解决，[详见](https://github.com/jekyll/jekyll/issues/1402)
 
 		✗ jekyll serve
