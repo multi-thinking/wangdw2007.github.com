@@ -7,9 +7,9 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: 每天都要前进一小步
+name: Avoid distractions
 url: wangdw2007.github.com
-desc: 书写是为了更好的思考
+desc: Don't give up
 
 custom:
     category:
