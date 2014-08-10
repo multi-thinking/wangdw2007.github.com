@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47694715-da90-48c2-8d6d-6f6efa7a4b06" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-02-看看这道题怎么做Python-Code-quiz.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-08-03-学习新技术的方法.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/2014-05-05-0309a47f-f953-4757-b58b-027552a6f390.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/2014-05-07-a4cd0a3e-c735-4405-f645-c0113305bf93.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/2014-05-15-18fcc942-bdef-478a-b44c-2c745dfbaa34.png" afterPath="" />
@@ -16,6 +14,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/2014-05-15-8a790299-942f-4635-a625-a7db9614d790.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/2014-05-15-b26f189f-1069-4ef0-d599-60db23eadace.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/post-images/null-2d764ac1-2571-4afd-c65f-8c34578915ce.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-06-04-jekyll-error.md" afterPath="$PROJECT_DIR$/_posts/2014-06-04-jekyll-error.md" />
     </list>
     <ignored path="wangdw2007.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,20 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+            <state vertical-scroll-proportion="0.16111708" vertical-offset="0" max-vertical-offset="931">
               <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="study new tech.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="study new tech.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/posts/study new tech.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2220">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2220">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -204,20 +203,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangdw2007.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wangdw2007.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -310,7 +295,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-71" width="1680" height="1028" extended-state="7" />
+    <frame x="1280" y="-71" width="1680" height="1028" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -632,18 +617,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/posts/study new tech.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2220">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16111708" vertical-offset="0" max-vertical-offset="931">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
