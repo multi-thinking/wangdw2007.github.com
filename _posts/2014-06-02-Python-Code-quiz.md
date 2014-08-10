@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看看这道题怎么做 Python Code quiz
-category: tech
+category: notes
 ---
 
 

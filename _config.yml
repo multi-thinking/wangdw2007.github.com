@@ -14,14 +14,14 @@ desc: 书写是为了更好的思考
 custom:
     category:
         notes: 学习笔记
-        tech: 技术
+        write: 随笔
         problems: 遇到问题
     categories:
       - name:  notes
         title: 学习笔记
 
-      - name:  tech
-        title: 技术
+      - name:  write
+        title: 随笔
 
       - name:  problems
         title: 遇到问题
